@@ -9,7 +9,8 @@ He is currently an undergraduate student at Peking University.
 Email: 2300013185[at]stu.pku.edu.cn
 
 #### Education
-Bachelor of Computer Science and Technology (Candidate), Peking University (2023 – 2027)
+Bachelor of Computer Science and Technology, Peking University (2023 – 2027)
+Expected Graduation: 2027
 
 #### Research Interests
 
